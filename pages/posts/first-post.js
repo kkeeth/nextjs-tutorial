@@ -26,9 +26,6 @@ const FirstPost = () => {
           height={600}
         />
       </div>
-      <h2>
-        <Link href="/">← Back to home</Link>
-      </h2>
     </Layout>
   );
 };
